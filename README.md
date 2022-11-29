@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there! 👋 I'm Kishore  
 
-<!--
-**jkkishore85/jkkishore85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Developer passionate about environment, water quality, and public health.
 
-Here are some ideas to get you started:
+Currently @ [University of Bath](https://www.bath.ac.uk/) -- Highly proficient at developing research tools for statistical analysis and visualisation of massive datasets across many disciplines. See my [website](http://kishorejagadeesan.com) for more information on my past work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :computer: Coding in: R, HTML
+- 📫 How to reach me: DM [@kishorejag](https://twitter.com/kishorejag)
+- 😄 Pronouns: He/him
+- :speech_balloon: Ask me about: R Shiny, massspectrometry, datavisualization, and wastewaterepidemiology
+
+#### Learn more & contact me
+- [Website](http://kishorejagadeesan.com)
+- [Twitter](https://twitter.com/kishorejag)
+- [LinkedIn](https://www.linkedin.com/in/jkishore)
