@@ -7,9 +7,9 @@ Currently @ [University of Bath](https://www.bath.ac.uk/) -- Highly proficient a
 - :computer: Coding in: R, HTML
 - 📫 How to reach me: DM [@kishorejag](https://twitter.com/kishorejag)
 - 😄 Pronouns: He/him
-- :speech_balloon: Ask me about: R Shiny, massspectrometry, datavisualization, and wastewaterepidemiology
+- :speech_balloon: Ask me about: R Shiny, Mass Spectrometry, Data Visualization, and Wastewater-Based Epidemiology
 
 #### Learn more & contact me
-- [Website](http://kishorejagadeesan.com)
+- [Website](https://jkkishore85.github.io)
 - [Twitter](https://twitter.com/kishorejag)
 - [LinkedIn](https://www.linkedin.com/in/jkishore)
