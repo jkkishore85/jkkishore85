@@ -13,3 +13,7 @@ Currently @ [University of Bath](https://www.bath.ac.uk/) -- Highly proficient a
 - [Website](https://jkkishore85.github.io)
 - [Twitter](https://twitter.com/kishorejag)
 - [LinkedIn](https://www.linkedin.com/in/jkishore)
+
+<p align="center">
+  <a href="https://github.com/jkkishore85"><img alt="Kishore Kumar JAGADEESAN GitHub statistic card using 'github-readme-stats' app by anuraghazra", src="https://github-readme-stats.vercel.app/api?username=jkkishore85&theme=github_dark_dimmed&show_icons=true&count_private=true" /></a>
+</p>
